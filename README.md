@@ -9,18 +9,18 @@ V2Ray，简称 V2，是 Project V 下的一个工具，负责网络协议和功�
 如果你不想搭建，也可以直接购买搬瓦工机场：[搬瓦工机场Just My Socks注册与购买教程](https://bwgvps.github.io/purchase-justmysocks/)
 
 ## 客户端配置
-**1、iOS 苹果客户端**
+**1、iOS苹果手机客户端**
 
-[iOS 苹果手机客户端 Shadowrocket 下载方法与使用教程](https://bwgvps.github.io/v2ray-tutorial/Shadowrocket-tutorial.html)
+[iOS苹果手机客户端Shadowrocket下载方法与使用教程](https://github.com/bwgvps/v2ray-tutorial/wiki/iOS苹果手机客户端Shadowrocket下载方法与使用教程)
 
-**2、Android 安卓手机客户端**
+**2、Android安卓手机客户端**
 
-[安卓手机客户端 v2rayNG 下载方法与使用教程](https://bwgvps.github.io/v2ray-tutorial/v2rayNG-tutorial.html)
+[安卓手机客户端v2rayNG下载方法与使用教程](https://github.com/bwgvps/v2ray-tutorial/wiki/Mac客户端V2RayX下载方法与使用教程)
 
-**3、Mac OS 客户端**
+**3、Mac客户端**
 
-[Mac 客户端 V2RayX 下载方法与使用教程](https://bwgvps.github.io/v2ray-tutorial/V2RayX-tutorial.html)
+[Mac客户端V2RayX下载方法与使用教程](https://github.com/bwgvps/v2ray-tutorial/wiki/Mac客户端V2RayX下载方法与使用教程)
 
-**4、Windows 客户端**
+**4、Windows客户端**
 
-[Windows 客户端 v2rayN 下载方法与使用教程](https://bwgvps.github.io/v2ray-tutorial/v2rayN-tutorial.html)
+[Windows客户端v2rayN下载方法与使用教程](https://github.com/bwgvps/v2ray-tutorial/wiki/Windows客户端v2rayN下载方法与使用教程)
