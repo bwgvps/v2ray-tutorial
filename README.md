@@ -15,7 +15,7 @@ V2Ray，简称 V2，是 Project V 下的一个工具，负责网络协议和功�
 
 **2、Android安卓手机客户端**
 
-[安卓手机客户端v2rayNG下载方法与使用教程](https://github.com/bwgvps/v2ray-tutorial/wiki/Mac客户端V2RayX下载方法与使用教程)
+[安卓手机客户端v2rayNG下载方法与使用教程](https://github.com/bwgvps/v2ray-tutorial/wiki/安卓手机客户端v2rayNG下载方法与使用教程)
 
 **3、Mac客户端**
 
